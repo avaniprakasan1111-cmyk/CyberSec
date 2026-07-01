@@ -932,6 +932,5 @@ Possible SNMP scanning or reconnaissance.
 
 ## Author
 
-**Your Name**  
+**Avani Prakasan **  
 SOC Analyst Learning Journey  
-GitHub Portfolio Project
