@@ -1,4 +1,4 @@
-# Day 4 - Windows Fundamentals for SOC Analyst
+# Windows Fundamentals for SOC Analyst
 
 ## Printable SOC Study Notes
 
@@ -672,6 +672,6 @@ Event availability depends on audit policy, data connector settings, Sysmon/EDR 
 
 ## Author
 
-**Your Name**  
+**Avani Prakasan**  
 SOC Analyst Learning Journey  
-GitHub Portfolio Project
+
