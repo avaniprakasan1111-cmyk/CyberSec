@@ -1,4 +1,4 @@
-# indows Event IDs
+# Windows Event IDs
 
 Printable SOC study notes for **Windows Security logs**, **Microsoft Entra ID sign-in logs**, and **Microsoft Sentinel KQL basics**.
 
