@@ -1,4 +1,4 @@
-# Day 5 - Windows Event IDs
+# indows Event IDs
 
 Printable SOC study notes for **Windows Security logs**, **Microsoft Entra ID sign-in logs**, and **Microsoft Sentinel KQL basics**.
 
@@ -396,8 +396,8 @@ Alert received
 
 ---
 
-## Suggested GitHub File Name
+
 
 ```text
-Day_5_Windows_Event_IDs.md
+Windows_Event_IDs.md
 ```
