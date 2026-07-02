@@ -1,6 +1,6 @@
 # Windows Fundamentals for SOC Analyst
 
-## Printable SOC Study Notes
+
 
 ### Goal
 
